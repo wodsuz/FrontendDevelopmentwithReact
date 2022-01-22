@@ -1,0 +1,2 @@
+npm init
+npm install lite-server --save-dev // helps to serve your projects on local server
